@@ -186,8 +186,11 @@ def plot_decision_regions(x, y, classifier):
 ```
 # OUTPUT:
 ![image](https://github.com/Daniel-christal/Ex-2--NN/assets/145742847/d1189a7e-8d6a-43bd-8a18-9271adabc492)
+
 ![image](https://github.com/Daniel-christal/Ex-2--NN/assets/145742847/33e4f3f4-dcc3-4ca1-b758-dcb29ea0dd95)
+
 ![image](https://github.com/Daniel-christal/Ex-2--NN/assets/145742847/d5843ca9-4255-4f14-98bd-fdf487341de1)
+
 ![image](https://github.com/Daniel-christal/Ex-2--NN/assets/145742847/5b960bba-5d26-4fd6-b632-85b5c29663b3)
 
 # RESULT:
